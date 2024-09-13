@@ -1,0 +1,1 @@
+Required Librariesopenaitiktokenchromadblangchain_communitygradiopytesseractfaiss-cpuocrmypdftextractpypdf2unstructuredunstructured[local-inference]ghostscript
